@@ -384,6 +384,54 @@ function calendarikko(userOptions) {
                         'Diciembre'
                     ]
                 },
+                gl: {
+                    oneLetter: [
+                        'L',
+                        'M',
+                        'M',
+                        'X',
+                        'V',
+                        'S',
+                        'D'
+                    ],
+                    shortForm: [
+                        'Lun',
+                        'Mar',
+                        'Mér',
+                        'Xov',
+                        'Ven',
+                        'Sáb',
+                        'Dom'
+                    ],
+                    fullWord: [
+                        'Luns',
+                        'Martes',
+                        'Mércores',
+                        'Xoves',
+                        'Venres',
+                        'Sábado',
+                        'Domingo'
+                    ],
+                    weeks: {
+                        oneLetter: 'S',
+                        shortForm: 'Sem',
+                        fullWord:  'Semana',
+                    },
+                    months: [
+                        'Xaneiro',
+                        'Febreiro',
+                        'Marzo',
+                        'Abril',
+                        'Maio',
+                        'Xuño',
+                        'Xullo',
+                        'Agosto',
+                        'Setembro',
+                        'Outubro',
+                        'Novembro',
+                        'December'
+                    ]
+                },
                 it: {
                     oneLetter: [
                         'D',
